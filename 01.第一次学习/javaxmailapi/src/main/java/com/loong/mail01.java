@@ -36,7 +36,7 @@ public class mail01 {
         // 登录用户名:
         final String username = "362808513@qq.com";
         // 登录口令:
-        String password = "wulagnkcaoebbjhf";
+        final String password = "wulagnkcaoebbjhf";
         String URL = "C:/Users/lzl36/Desktop/资料/公司产品架构.png";
         // 连接到SMTP服务器587端口:
         Properties props = new Properties();

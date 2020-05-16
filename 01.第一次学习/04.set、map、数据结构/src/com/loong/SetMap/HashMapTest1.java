@@ -17,7 +17,7 @@ public class HashMapTest1 {
         Set<Student> keys = map.keySet();
 
         for (Student key : keys) {
-            System.out.println(key.toString());
+            System.out.println(key);
             System.out.println(map.get(key));
         }
     }

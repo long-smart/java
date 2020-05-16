@@ -4,6 +4,8 @@ import java.time.Duration;
 import java.time.LocalDate;
 import java.time.LocalDateTime;
 import java.time.Period;
+import java.time.temporal.ChronoUnit;
+import java.util.Calendar;
 
 public class Date03 {
     public static void main(String[] args) {
@@ -19,5 +21,6 @@ public class Date03 {
 
         Period p1 = LocalDate.of(2000, 7, 6).until(LocalDate.now());
         System.out.println(p1);
+        System.out.println(p1.get(ChronoUnit.YEARS));
     }
 }

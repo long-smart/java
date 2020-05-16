@@ -9,7 +9,7 @@ public class Regexp01 {
         注意区分?的含义：\d??。
      */
     public static void main(String[] args) {
-        String reg = "(\\d{3,4})\\-(\\d{6,8})";
+        String reg = "(\\d{3,4})-(\\d{6,8})";
         Pattern p = Pattern.compile(reg);
         Matcher m = p.matcher("010-12345678");
 

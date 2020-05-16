@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f41da1fc-e190-475a-875f-d93699efc96b" name="默认的" comment="">
+      <change afterPath="$PROJECT_DIR$/../../01.第一次学习/02.java常用api、面向对象/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../01.第一次学习/03.常用api、集合/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../01.第一次学习/04.set、map、数据结构/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../01.第一次学习/07.FIle、递归/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../01.第一次学习/08.缓冲流、转化流、序列化流/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../01.第一次学习/14.2019.12.10IO流、日期时间/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../01.第一次学习/16.2019.12.10.正则表达式/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../01.常用api/01.常用api.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../02.多线程/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../02.多线程/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../02.多线程/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../02.多线程/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../02.多线程/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../02.多线程/02.多线程.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../02.多线程/src/com/loong/Child01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../02.多线程/src/com/loong/Child02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../02.多线程/src/com/loong/Demo01/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../02.多线程/src/com/loong/Demo02_Pool/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../02.多线程/src/com/loong/Demo02_Pool/MyRunnable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../02.多线程/src/com/loong/Main01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../02.多线程/src/com/loong/Main02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../02.多线程/src/com/loong/Thread01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../02.多线程/src/com/loong/Thread02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../02.多线程/src/com/loong/Thread03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../03.IO流/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../03.IO流/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../03.IO流/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../03.IO流/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../03.IO流/03.IO流.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../03.IO流/src/com/loong/demo01/File01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../04.网络/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../04.网络/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../04.网络/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../04.网络/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../04.网络/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../04.网络/04.网络.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../04.网络/src/com/loong/FileUpload/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../04.网络/src/com/loong/FileUpload/Server.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../04.网络/src/com/loong/demo01/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../04.网络/src/com/loong/demo01/Server.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../05.函数式编程/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../05.函数式编程/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../05.函数式编程/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../05.函数式编程/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../05.函数式编程/05.函数式编程.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../05.函数式编程/src/com/loong/Demo01/Main01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../06.单元测试/06.单元测试.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../08.正则表达式/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../08.正则表达式/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../08.正则表达式/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../08.正则表达式/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../08.正则表达式/08.正则表达式.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../08.正则表达式/src/com/loong/learJava/Main01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../08.正则表达式/src/com/loong/learJava/Main02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../09.多线程复习/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../09.多线程复习/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../09.多线程复习/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../09.多线程复习/09.多线程复习.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../09.多线程复习/src/com/loong/learJava/ForkJoin/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../09.多线程复习/src/com/loong/learJava/ForkJoin/SumTask.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../09.多线程复习/src/com/loong/learJava/Future/Main01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../09.多线程复习/src/com/loong/learJava/Future/Main02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../09.多线程复习/src/com/loong/learJava/Future/Main03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../09.多线程复习/src/com/loong/learJava/Pool/Main01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../09.多线程复习/src/com/loong/learJava/Pool/Main02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../09.多线程复习/src/com/loong/learJava/Pool/Main03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../09.多线程复习/src/com/loong/learJava/Pool/Task.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../09.多线程复习/src/com/loong/learJava/Pool/Task01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../09.多线程复习/src/com/loong/learJava/ReadWriteLockDemo/Counter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../09.多线程复习/src/com/loong/learJava/ReadWriteLockDemo/Main01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../09.多线程复习/src/com/loong/learJava/ReadWriteLockDemo/Point.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../10.JDBC/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../10.JDBC/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../10.JDBC/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../10.JDBC/.idea/libraries/mysql_connector_java_8_0_18.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../10.JDBC/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../10.JDBC/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../10.JDBC/10.JDBC.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../10.JDBC/lib/mysql-connector-java-8.0.18.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../10.JDBC/src/main/java/com/loong/learnJava/Main01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../10.JDBC/src/main/java/com/loong/learnJava/Main02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../11.设计模式/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../11.设计模式/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../11.设计模式/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../11.设计模式/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../11.设计模式/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../11.设计模式/11.设计模式.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../11.设计模式/src/com/loong/learnJava/absoluteFactory/AbstractFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../11.设计模式/src/com/loong/learnJava/absoluteFactory/FastFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../11.设计模式/src/com/loong/learnJava/absoluteFactory/FastHtmlDocument.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../11.设计模式/src/com/loong/learnJava/absoluteFactory/FastWordDocument.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../11.设计模式/src/com/loong/learnJava/absoluteFactory/GoodFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../11.设计模式/src/com/loong/learnJava/absoluteFactory/GoodHTMLDocument.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../11.设计模式/src/com/loong/learnJava/absoluteFactory/GoodWordDocument.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../11.设计模式/src/com/loong/learnJava/absoluteFactory/HTMLDocument.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../11.设计模式/src/com/loong/learnJava/absoluteFactory/WordDocument.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/12.web开发.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../01.第一次学习/02.java常用api、面向对象/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../01.第一次学习/02.java常用api、面向对象/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../01.第一次学习/02.java常用api、面向对象/out/production/02.java常用api、面向对象/META-INF/02.java常用api、面向对象.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../01.第一次学习/02.java常用api、面向对象/out/production/02.java常用api、面向对象/com/loong/api/list.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../01.第一次学习/02.java常用api、面向对象/out/production/02.java常用api、面向对象/com/loong/api/list.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../01.第一次学习/02.java常用api、面向对象/src/com/loong/api/arrayList.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../01.第一次学习/02.java常用api、面向对象/src/com/loong/api/arrayList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../01.第一次学习/03.常用api、集合/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../01.第一次学习/03.常用api、集合/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../01.第一次学习/03.常用api、集合/out/production/03.常用api、集合/META-INF/03.常用api、集合.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../01.第一次学习/03.常用api、集合/out/production/03.常用api、集合/com/loong/api/CalendarTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../01.第一次学习/03.常用api、集合/out/production/03.常用api、集合/com/loong/api/CalendarTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../01.第一次学习/03.常用api、集合/out/production/03.常用api、集合/com/loong/api/GenericTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../01.第一次学习/03.常用api、集合/out/production/03.常用api、集合/com/loong/api/GenericTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../01.第一次学习/03.常用api、集合/out/production/03.常用api、集合/com/loong/api/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../01.第一次学习/03.常用api、集合/out/production/03.常用api、集合/com/loong/api/Test.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../01.第一次学习/03.常用api、集合/src/com/loong/api/CalendarTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../01.第一次学习/03.常用api、集合/src/com/loong/api/CalendarTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../01.第一次学习/04.set、map、数据结构/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../01.第一次学习/04.set、map、数据结构/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../01.第一次学习/04.set、map、数据结构/out/production/04.set、map、数据结构/com/loong/SetMap/Comparator.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../01.第一次学习/04.set、map、数据结构/out/production/04.set、map、数据结构/com/loong/SetMap/Comparator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../01.第一次学习/04.set、map、数据结构/out/production/04.set、map、数据结构/com/loong/SetMap/HashMapTest1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../01.第一次学习/04.set、map、数据结构/out/production/04.set、map、数据结构/com/loong/SetMap/HashMapTest1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../01.第一次学习/04.set、map、数据结构/out/production/04.set、map、数据结构/com/loong/SetMap/MapTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../01.第一次学习/04.set、map、数据结构/out/production/04.set、map、数据结构/com/loong/SetMap/MapTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../01.第一次学习/04.set、map、数据结构/out/production/04.set、map、数据结构/com/loong/threading/MyThread.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../01.第一次学习/04.set、map、数据结构/out/production/04.set、map、数据结构/com/loong/threading/MyThread.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../01.第一次学习/04.set、map、数据结构/src/com/loong/SetMap/Comparator.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../01.第一次学习/04.set、map、数据结构/src/com/loong/SetMap/Comparator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../01.第一次学习/04.set、map、数据结构/src/com/loong/SetMap/HashMapTest1.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../01.第一次学习/04.set、map、数据结构/src/com/loong/SetMap/HashMapTest1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../01.第一次学习/04.set、map、数据结构/src/com/loong/SetMap/MapTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../01.第一次学习/04.set、map、数据结构/src/com/loong/SetMap/MapTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../01.第一次学习/05.线程、file/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../01.第一次学习/05.线程、file/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../01.第一次学习/07.FIle、递归/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../01.第一次学习/07.FIle、递归/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../01.第一次学习/07.FIle、递归/out/production/07.FIle、递归/META-INF/07.FIle、递归.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../01.第一次学习/07.FIle、递归/out/production/07.FIle、递归/com/loong/FileTest/FileReader/Property01.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../01.第一次学习/07.FIle、递归/out/production/07.FIle、递归/com/loong/FileTest/FileReader/Property01.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../01.第一次学习/08.缓冲流、转化流、序列化流/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../01.第一次学习/08.缓冲流、转化流、序列化流/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../01.第一次学习/12.2019.12.06/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../01.第一次学习/12.2019.12.06/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../01.第一次学习/12.2019.12.06/out/production/12.2019.12.06/com/loong/Logger01.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../01.第一次学习/14.2019.12.10IO流、日期时间/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../01.第一次学习/14.2019.12.10IO流、日期时间/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../01.第一次学习/14.2019.12.10IO流、日期时间/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../01.第一次学习/14.2019.12.10IO流、日期时间/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../01.第一次学习/14.2019.12.10IO流、日期时间/out/production/14.2019.12.10IO流、日期时间/Date/Date01.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../01.第一次学习/14.2019.12.10IO流、日期时间/out/production/14.2019.12.10IO流、日期时间/Date/Date01.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../01.第一次学习/14.2019.12.10IO流、日期时间/out/production/14.2019.12.10IO流、日期时间/Date/Date02.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../01.第一次学习/14.2019.12.10IO流、日期时间/out/production/14.2019.12.10IO流、日期时间/Date/Date02.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../01.第一次学习/14.2019.12.10IO流、日期时间/out/production/14.2019.12.10IO流、日期时间/Date/Date03.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../01.第一次学习/14.2019.12.10IO流、日期时间/out/production/14.2019.12.10IO流、日期时间/Date/Date03.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../01.第一次学习/14.2019.12.10IO流、日期时间/out/production/14.2019.12.10IO流、日期时间/Date/Date04.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../01.第一次学习/14.2019.12.10IO流、日期时间/out/production/14.2019.12.10IO流、日期时间/Date/Date04.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../01.第一次学习/14.2019.12.10IO流、日期时间/out/production/14.2019.12.10IO流、日期时间/Date/Date05.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../01.第一次学习/14.2019.12.10IO流、日期时间/out/production/14.2019.12.10IO流、日期时间/Date/Date05.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../01.第一次学习/14.2019.12.10IO流、日期时间/out/production/14.2019.12.10IO流、日期时间/io/Date01.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../01.第一次学习/14.2019.12.10IO流、日期时间/out/production/14.2019.12.10IO流、日期时间/io/Date01.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../01.第一次学习/14.2019.12.10IO流、日期时间/src/Date/Date03.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../01.第一次学习/14.2019.12.10IO流、日期时间/src/Date/Date03.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../01.第一次学习/16.2019.12.10.正则表达式/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../01.第一次学习/16.2019.12.10.正则表达式/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../01.第一次学习/16.2019.12.10.正则表达式/out/production/16.2019.12.10.正则表达式/com/loong/Regexp01.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../01.第一次学习/16.2019.12.10.正则表达式/out/production/16.2019.12.10.正则表达式/com/loong/Regexp01.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../01.第一次学习/16.2019.12.10.正则表达式/src/com/loong/Regexp01.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../01.第一次学习/16.2019.12.10.正则表达式/src/com/loong/Regexp01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../01.第一次学习/17.2019.12.10.加密与安全/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../01.第一次学习/17.2019.12.10.加密与安全/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../01.第一次学习/18.2019.12.10.多线程/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../01.第一次学习/18.2019.12.10.多线程/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../01.第一次学习/javaxmailapi/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../01.第一次学习/javaxmailapi/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../01.第一次学习/javaxmailapi/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../01.第一次学习/javaxmailapi/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../01.第一次学习/javaxmailapi/src/main/java/com/loong/mail01.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../01.第一次学习/javaxmailapi/src/main/java/com/loong/mail01.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="1bwQ0vyuxKQrPiRmdN2r9nTbID0" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="新增" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="项目" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f41da1fc-e190-475a-875f-d93699efc96b" name="默认的" comment="" />
+      <created>1589540456571</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1589540456571</updated>
+      <workItem from="1589540458255" duration="1200000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="249" y="0" key="SettingsEditor" timestamp="1589540558321">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="249" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1589540558320" />
+  </component>
+</project>

@@ -16,12 +16,13 @@ public class Comparator {
         Collections.addAll(list, 10, 2, 1, 5, 4, 7, 3);
         System.out.println(list);
 
-//        Collections.sort(list, new java.util.Comparator<Integer>() {
-//            @Override
-//            public int compare(Integer o1, Integer o2) {
+        Collections.sort(list, new java.util.Comparator<Integer>() {
+            @Override
+            public int compare(Integer o1, Integer o2) {
 //                return o2 - o1;
-//            }
-//        });
+                return o1 - o2;
+            }
+        });
 
         System.out.println(list);
     }

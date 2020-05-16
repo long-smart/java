@@ -31,7 +31,7 @@ public class arrayList {
         // get 通过下标获取元素
         System.out.println(strs.get(2));
 
-        for (int i=0; i<strs.size(); i++) {
+        for (int i = 0; i < strs.size(); i++) {
             System.out.println(strs.get(i));
         }
 
