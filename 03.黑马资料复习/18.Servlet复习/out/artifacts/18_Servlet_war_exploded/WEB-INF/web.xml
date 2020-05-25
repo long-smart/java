@@ -12,4 +12,17 @@
         <servlet-name>servlet01</servlet-name>
         <url-pattern>/servlet01</url-pattern>
     </servlet-mapping>
+
+    <servlet>
+        <servlet-name>servlet05</servlet-name>
+        <servlet-class>com.loong.learnJava.Servlet05</servlet-class>
+        <init-param>
+            <param-name>name</param-name>
+            <param-value>servlet05</param-value>
+        </init-param>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>servlet05</servlet-name>
+        <url-pattern>/servlet05</url-pattern>
+    </servlet-mapping>
 </web-app>
