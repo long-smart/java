@@ -44,7 +44,7 @@ public class UserService {
                 throw new RuntimeException("password is error");
             }
         }
-        throw new RuntimeException("login failed.");
+        throw new RuntimeException("login failed..");
     }
 
     public void setDataSource(HikariDataSource dataSource) {

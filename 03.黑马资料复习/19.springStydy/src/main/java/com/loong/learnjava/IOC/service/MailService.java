@@ -24,6 +24,5 @@ public class MailService {
 
     public void sendRegistrationMail(User user) {
         System.err.println(String.format("Welcome, %s!", user.getName()));
-
     }
 }
