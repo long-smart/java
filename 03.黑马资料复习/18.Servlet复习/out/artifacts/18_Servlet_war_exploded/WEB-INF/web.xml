@@ -6,7 +6,7 @@
 
     <servlet>
         <servlet-name>servlet01</servlet-name>
-        <servlet-class>com.loong.learnJava.Servlet01</servlet-class>
+        <servlet-class>com.loong.learnJava.demo1.Servlet01</servlet-class>
     </servlet>
     <servlet-mapping>
         <servlet-name>servlet01</servlet-name>
@@ -15,7 +15,7 @@
 
     <servlet>
         <servlet-name>servlet05</servlet-name>
-        <servlet-class>com.loong.learnJava.Servlet05</servlet-class>
+        <servlet-class>com.loong.learnJava.demo1.Servlet05</servlet-class>
         <init-param>
             <param-name>name</param-name>
             <param-value>servlet05</param-value>

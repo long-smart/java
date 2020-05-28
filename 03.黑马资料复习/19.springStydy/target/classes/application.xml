@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans
+        https://www.springframework.org/schema/beans/spring-beans.xsd">
+
+<!--  使用注解配置IOC  -->
+    <bean id="userService" class="com.loong.learnjava.IOC.service.UserService">
+        <property name="mailService" ref="mailService" />
+        <property name="dataSource" ref="dataSource" />
+    </bean>
+    <bean id="dataSource" class="com.zaxxer.hikari.HikariDataSource">
+        <property name="jdbcUrl" value="jdbc:mysql://localhost:3306/learnjdbc" />
+        <property name="username" value="root" />
+        <property name="password" value="123456" />
+        <property name="maximumPoolSize" value="10" />
+        <property name="autoCommit" value="true" />
+    </bean>
+
+    <bean id="mailService" class="com.loong.learnjava.IOC.service.MailService" />
+</beans>
