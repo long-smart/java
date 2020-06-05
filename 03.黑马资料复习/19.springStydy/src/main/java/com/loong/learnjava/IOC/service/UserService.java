@@ -1,5 +1,6 @@
 package com.loong.learnjava.IOC.service;
 
+import com.loong.learnjava.IOC.Annotation.MetricTime;
 import com.zaxxer.hikari.HikariConfig;
 import com.zaxxer.hikari.HikariDataSource;
 import org.springframework.beans.factory.annotation.Autowired;
@@ -45,6 +46,11 @@ public class UserService {
             }
         }
         throw new RuntimeException("login failed..");
+    }
+
+    @MetricTime("register")
+    public void register(String email, String password, String name) {
+        System.out.println(name);
     }
 
     public void setDataSource(HikariDataSource dataSource) {

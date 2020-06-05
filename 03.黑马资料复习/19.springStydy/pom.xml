@@ -44,5 +44,11 @@
             <version>8.0.18</version>
             <scope>runtime</scope>
         </dependency>
+        <!-- AspectJ 实现AOP -->
+        <dependency>
+            <groupId>org.springframework</groupId>
+            <artifactId>spring-aspects</artifactId>
+            <version>${spring.version}</version>
+        </dependency>
     </dependencies>
 </project>
