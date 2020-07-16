@@ -1,0 +1,187 @@
+2020-06-11 11:02:17.585  INFO 3736 --- [main] com.loong.learnJava.Appication           : Starting Appication on LAPTOP-DBMEGCG5 with PID 3736 (C:\Users\lzl36\Desktop\myself\study\java\03.黑马资料复习\26.spring-boot\target\classes started by lzl36 in C:\Users\lzl36\Desktop\myself\study\java\03.黑马资料复习\26.spring-boot)
+2020-06-11 11:02:17.608  INFO 3736 --- [main] com.loong.learnJava.Appication           : No active profile set, falling back to default profiles: default
+2020-06-11 11:02:20.757  INFO 3736 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2020-06-11 11:02:20.780  INFO 3736 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2020-06-11 11:02:20.781  INFO 3736 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.35]
+2020-06-11 11:02:21.036  INFO 3736 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2020-06-11 11:02:21.037  INFO 3736 --- [main] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 3252 ms
+2020-06-11 11:02:21.489  INFO 3736 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2020-06-11 11:02:22.176  WARN 3736 --- [main] ConfigServletWebServerApplicationContext : Exception encountered during context initialization - cancelling refresh attempt: org.springframework.context.ApplicationContextException: Failed to start bean 'webServerStartStop'; nested exception is org.springframework.boot.web.server.PortInUseException: Port 8080 is already in use
+2020-06-11 11:02:22.179  INFO 3736 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2020-06-11 11:02:22.185  INFO 3736 --- [main] o.apache.catalina.core.StandardService   : Stopping service [Tomcat]
+2020-06-11 11:02:22.208  INFO 3736 --- [main] ConditionEvaluationReportLoggingListener : 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2020-06-11 11:02:22.219 ERROR 3736 --- [main] o.s.b.d.LoggingFailureAnalysisReporter   : 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Web server failed to start. Port 8080 was already in use.
+
+Action:
+
+Identify and stop the process that's listening on port 8080 or configure this application to listen on another port.
+
+2020-06-11 11:03:14.370  INFO 2976 --- [main] com.loong.learnJava.Appication           : Starting Appication on LAPTOP-DBMEGCG5 with PID 2976 (C:\Users\lzl36\Desktop\myself\study\java\03.黑马资料复习\26.spring-boot\target\classes started by lzl36 in C:\Users\lzl36\Desktop\myself\study\java\03.黑马资料复习\26.spring-boot)
+2020-06-11 11:03:14.377  INFO 2976 --- [main] com.loong.learnJava.Appication           : No active profile set, falling back to default profiles: default
+2020-06-11 11:03:16.501  INFO 2976 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2020-06-11 11:03:16.520  INFO 2976 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2020-06-11 11:03:16.521  INFO 2976 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.35]
+2020-06-11 11:03:16.725  INFO 2976 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2020-06-11 11:03:16.726  INFO 2976 --- [main] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 2240 ms
+2020-06-11 11:03:17.055  INFO 2976 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2020-06-11 11:03:17.631  INFO 2976 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2020-06-11 11:03:17.651  INFO 2976 --- [main] com.loong.learnJava.Appication           : Started Appication in 4.539 seconds (JVM running for 6.804)
+2020-06-11 11:03:32.916  INFO 2976 --- [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-06-11 11:03:32.916  INFO 2976 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2020-06-11 11:03:32.924  INFO 2976 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 8 ms
+2020-06-11 11:06:36.707  INFO 8244 --- [main] com.loong.learnJava.Appication           : Starting Appication on LAPTOP-DBMEGCG5 with PID 8244 (C:\Users\lzl36\Desktop\myself\study\java\03.黑马资料复习\26.spring-boot\target\classes started by lzl36 in C:\Users\lzl36\Desktop\myself\study\java\03.黑马资料复习\26.spring-boot)
+2020-06-11 11:06:36.719  INFO 8244 --- [main] com.loong.learnJava.Appication           : No active profile set, falling back to default profiles: default
+2020-06-11 11:06:39.914  INFO 8244 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2020-06-11 11:06:39.938  INFO 8244 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2020-06-11 11:06:39.939  INFO 8244 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.35]
+2020-06-11 11:06:40.171  INFO 8244 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2020-06-11 11:06:40.172  INFO 8244 --- [main] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 3310 ms
+2020-06-11 11:06:40.617  INFO 8244 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2020-06-11 11:06:41.375  INFO 8244 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2020-06-11 11:06:41.397  INFO 8244 --- [main] com.loong.learnJava.Appication           : Started Appication in 6.684 seconds (JVM running for 11.35)
+2020-06-11 11:06:47.316  INFO 8244 --- [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-06-11 11:06:47.318  INFO 8244 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2020-06-11 11:06:47.337  INFO 8244 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 18 ms
+2020-06-11 11:07:05.147 ERROR 8244 --- [http-nio-8080-exec-7] o.a.c.c.C.[.[.[/].[dispatcherServlet]    : Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception [Request processing failed; nested exception is com.mitchellbosecke.pebble.error.LoaderException: Could not find template "templates/api/user/getUser.pebble" (?:?)] with root cause
+
+com.mitchellbosecke.pebble.error.LoaderException: Could not find template "templates/api/user/getUser.pebble" (?:?)
+	at com.mitchellbosecke.pebble.loader.ClasspathLoader.getReader(ClasspathLoader.java:60)
+	at com.mitchellbosecke.pebble.loader.ClasspathLoader.getReader(ClasspathLoader.java:28)
+	at com.mitchellbosecke.pebble.PebbleEngine.getPebbleTemplate(PebbleEngine.java:155)
+	at com.mitchellbosecke.pebble.PebbleEngine.lambda$getTemplate$2(PebbleEngine.java:150)
+	at java.util.concurrent.ConcurrentHashMap.computeIfAbsent(ConcurrentHashMap.java:1660)
+	at com.mitchellbosecke.pebble.cache.template.ConcurrentMapTemplateCache.computeIfAbsent(ConcurrentMapTemplateCache.java:24)
+	at com.mitchellbosecke.pebble.cache.template.ConcurrentMapTemplateCache.computeIfAbsent(ConcurrentMapTemplateCache.java:9)
+	at com.mitchellbosecke.pebble.PebbleEngine.getTemplate(PebbleEngine.java:150)
+	at com.mitchellbosecke.pebble.PebbleEngine.getTemplate(PebbleEngine.java:121)
+	at com.mitchellbosecke.pebble.spring.servlet.PebbleView.evaluateTemplate(PebbleView.java:85)
+	at com.mitchellbosecke.pebble.spring.servlet.PebbleView.renderMergedTemplateModel(PebbleView.java:61)
+	at org.springframework.web.servlet.view.AbstractTemplateView.renderMergedOutputModel(AbstractTemplateView.java:179)
+	at org.springframework.web.servlet.view.AbstractView.render(AbstractView.java:316)
+	at org.springframework.web.servlet.DispatcherServlet.render(DispatcherServlet.java:1373)
+	at org.springframework.web.servlet.DispatcherServlet.processDispatchResult(DispatcherServlet.java:1118)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1057)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:943)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1006)
+	at org.springframework.web.servlet.FrameworkServlet.doGet(FrameworkServlet.java:898)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:634)
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:883)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:741)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:202)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:541)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:139)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:343)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:373)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:868)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1590)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:748)
+
+2020-06-11 11:07:05.156 ERROR 8244 --- [http-nio-8080-exec-7] s.e.ErrorMvcAutoConfiguration$StaticView : Cannot render error page for request [/api/user/getUser] and exception [] as the response has already been committed. As a result, the response may have the wrong status code.
+2020-06-11 11:07:06.731 ERROR 8244 --- [http-nio-8080-exec-8] o.a.c.c.C.[.[.[/].[dispatcherServlet]    : Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception [Request processing failed; nested exception is com.mitchellbosecke.pebble.error.LoaderException: Could not find template "templates/api/user/getUser.pebble" (?:?)] with root cause
+
+com.mitchellbosecke.pebble.error.LoaderException: Could not find template "templates/api/user/getUser.pebble" (?:?)
+	at com.mitchellbosecke.pebble.loader.ClasspathLoader.getReader(ClasspathLoader.java:60)
+	at com.mitchellbosecke.pebble.loader.ClasspathLoader.getReader(ClasspathLoader.java:28)
+	at com.mitchellbosecke.pebble.PebbleEngine.getPebbleTemplate(PebbleEngine.java:155)
+	at com.mitchellbosecke.pebble.PebbleEngine.lambda$getTemplate$2(PebbleEngine.java:150)
+	at java.util.concurrent.ConcurrentHashMap.computeIfAbsent(ConcurrentHashMap.java:1660)
+	at com.mitchellbosecke.pebble.cache.template.ConcurrentMapTemplateCache.computeIfAbsent(ConcurrentMapTemplateCache.java:24)
+	at com.mitchellbosecke.pebble.cache.template.ConcurrentMapTemplateCache.computeIfAbsent(ConcurrentMapTemplateCache.java:9)
+	at com.mitchellbosecke.pebble.PebbleEngine.getTemplate(PebbleEngine.java:150)
+	at com.mitchellbosecke.pebble.PebbleEngine.getTemplate(PebbleEngine.java:121)
+	at com.mitchellbosecke.pebble.spring.servlet.PebbleView.evaluateTemplate(PebbleView.java:85)
+	at com.mitchellbosecke.pebble.spring.servlet.PebbleView.renderMergedTemplateModel(PebbleView.java:61)
+	at org.springframework.web.servlet.view.AbstractTemplateView.renderMergedOutputModel(AbstractTemplateView.java:179)
+	at org.springframework.web.servlet.view.AbstractView.render(AbstractView.java:316)
+	at org.springframework.web.servlet.DispatcherServlet.render(DispatcherServlet.java:1373)
+	at org.springframework.web.servlet.DispatcherServlet.processDispatchResult(DispatcherServlet.java:1118)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1057)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:943)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1006)
+	at org.springframework.web.servlet.FrameworkServlet.doGet(FrameworkServlet.java:898)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:634)
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:883)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:741)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:202)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:541)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:139)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:343)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:373)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:868)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1590)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:748)
+
+2020-06-11 11:07:06.735 ERROR 8244 --- [http-nio-8080-exec-8] s.e.ErrorMvcAutoConfiguration$StaticView : Cannot render error page for request [/api/user/getUser] and exception [] as the response has already been committed. As a result, the response may have the wrong status code.
+2020-06-11 11:08:01.489  INFO 22260 --- [main] com.loong.learnJava.Appication           : Starting Appication on LAPTOP-DBMEGCG5 with PID 22260 (C:\Users\lzl36\Desktop\myself\study\java\03.黑马资料复习\26.spring-boot\target\classes started by lzl36 in C:\Users\lzl36\Desktop\myself\study\java\03.黑马资料复习\26.spring-boot)
+2020-06-11 11:08:01.496  INFO 22260 --- [main] com.loong.learnJava.Appication           : No active profile set, falling back to default profiles: default
+2020-06-11 11:08:03.759  INFO 22260 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2020-06-11 11:08:03.779  INFO 22260 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2020-06-11 11:08:03.780  INFO 22260 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.35]
+2020-06-11 11:08:04.030  INFO 22260 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2020-06-11 11:08:04.043  INFO 22260 --- [main] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 2435 ms
+2020-06-11 11:08:04.493  INFO 22260 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2020-06-11 11:08:05.286  INFO 22260 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2020-06-11 11:08:05.308  INFO 22260 --- [main] com.loong.learnJava.Appication           : Started Appication in 5.236 seconds (JVM running for 6.542)
+2020-06-11 11:08:08.696  INFO 22260 --- [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-06-11 11:08:08.697  INFO 22260 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2020-06-11 11:08:08.711  INFO 22260 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 13 ms
