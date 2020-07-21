@@ -1,0 +1,23 @@
+# application.yml
+
+spring:
+  application:
+    name: ${APP_NAME:unnamed}
+  datasource:
+    url: jdbc:mysql://localhost:3306/learnjdbc?serverTimezone=GMT%2B8
+    username: root
+    password: 123456
+    dirver-class-name: com.mysql.jdbc.Driver
+    hikari:
+      auto-commit: false
+      connection-timeout: 3000
+      validation-timeout: 3000
+      max-lifetime: 60000
+      maximum-pool-size: 20
+      minimum-idle: 1
+
+  pebble:
+    # 默认为".pebble"，改为"":
+    suffix:
+    # 开发阶段禁用模板缓存:
+    cache: false
