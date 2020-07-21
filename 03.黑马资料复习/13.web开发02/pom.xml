@@ -10,7 +10,7 @@
     <packaging>war</packaging>
 
     <properties>
-        <tomcat.version>9.0.26</tomcat.version>
+        <tomcat.version>9.0.37</tomcat.version>
         <spring.version>5.2.3.RELEASE</spring.version>
     </properties>
 
