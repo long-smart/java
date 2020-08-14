@@ -1,5 +1,6 @@
 package com.loong.learnjava.loong.entity;
 
+import com.baomidou.mybatisplus.annotation.TableField;
 import lombok.AllArgsConstructor;
 import lombok.Data;
 import lombok.NoArgsConstructor;
@@ -31,6 +32,9 @@ public class Menu implements Serializable {
     // 是否可用
     private Boolean enabled;
 
+    @TableField(exist = false)
     private List<Menu> children;
+
+    @TableField(exist = false)
     private List<Role> roles;
 }

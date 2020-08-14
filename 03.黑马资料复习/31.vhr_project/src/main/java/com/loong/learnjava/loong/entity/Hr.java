@@ -1,5 +1,6 @@
 package com.loong.learnjava.loong.entity;
 
+import com.baomidou.mybatisplus.annotation.TableField;
 import com.fasterxml.jackson.annotation.JsonIgnore;
 import lombok.AllArgsConstructor;
 import lombok.Data;
@@ -11,7 +12,6 @@ import org.springframework.security.core.userdetails.UserDetails;
 import java.util.ArrayList;
 import java.util.Collection;
 import java.util.List;
-import java.util.Objects;
 
 @Data
 @AllArgsConstructor
@@ -37,6 +37,8 @@ public class Hr implements UserDetails {
     private String userface;
     // 备注
     private String remark;
+
+    @TableField(exist = false)
     private List<Role> roles;
 
     @Override

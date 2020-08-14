@@ -25,7 +25,6 @@ public class SecurityConfig extends WebSecurityConfigurerAdapter {
                 .withUser("admin")
                 .password("123456")
                 .authorities("ADMIN");
-
     }
 
 }
